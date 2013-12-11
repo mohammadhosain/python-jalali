@@ -14,8 +14,9 @@ python setup.py install
 ```
 
 for python3 install from source:
+```
 python3.3 setup3.py install
-
+```
 Documents
 ---------
 This module exactly follows Python Standard [datetime module's methods](http://docs.python.org/release/2.7.1/library/datetime.html)
