@@ -1,5 +1,5 @@
 #jdatetime is (c) 2010-2011 Milad Rastian <eslashmili at gmail.com>.
-#jdatetime3 is (c) 2013 mohammadhosain <mohammadhosain at chmail.ir> forked from jdatetime.
+#jdatetime3 is (c) 2013 mohammadhosain <mohammad.hosain at chmail.ir> forked from jdatetime.
 #The jdatetime module was contributed to Python as of Python 3 and thus
 #was licensed under the Python license. Same license applies to all files in
 #the jdatetime package project.
