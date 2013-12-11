@@ -13,6 +13,12 @@ OR install it from source
 python setup.py install
 ```
 
+OR install it from source
+```
+python setup.py install
+```
+
+
 for python3 install from source:
 ```
 python3.3 setup3.py install
